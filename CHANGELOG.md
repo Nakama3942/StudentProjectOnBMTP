@@ -31,11 +31,10 @@
 ## v0.1.1 (21 Jun 2021)
 
 #### Enhancements:
-- Удалил все лишние файлы (типа отчётов, исполнительных файлов и т.д.), кроме самих кодов
+- Deleted all unnecessary files (such as reports, executable files, etc.), except for the codes themselves
 
 ---
 
 ## v0.1.0 (01 Jun 2021)
 
-#### Update
-- Выгрузил задание по последней лабораторной работе
+#### Release
