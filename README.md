@@ -1,26 +1,21 @@
-<!--
 [![template](https://img.shields.io/badge/Repository-template-darkred)](https://github.com/Nakama3942/template_rep)
-[![GitHub license](https://img.shields.io/github/license/Nakama3942/template_rep?color=darkorange&style=flat-square)](https://github.com/Nakama3942/template_rep/blob/main/LICENSE)
--->
+[![GitHub license](https://img.shields.io/github/license/Nakama3942/StudentProjectOnBMTP?color=purple&style=flat-square)](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/LICENSE)
 
 # StudentProjectOnBMTP
 ## Overview
-Это решённые проекты по заданиям предмета БМТП.
-Написаны решения только к третьему варианту. К проекту прилагается отчёт, который можно
-использовать как образец для своих отчётов проектов, програмы написаны для ознакомления и изучения алгоритмов.
-ИСПОЛЬЗОВАТЬ ПРОГРАММЫ И СМОТРЕТЬ СХОДНИКИ ДЛЯ ОЗНАКОМЛЕНИЯ МОЖНО. КОПИРОВАТЬ И ВЫДАВАТЬ ЗА СВОИ В СВОИХ ПРОЕКТАХ - НЕЛЬЗЯ!
+These are completed projects for the tasks of the BMTP subject. Only solutions for the third option have been written to familiarize and study the algorithms.
 
-## Usage
-Каждая внутрення директория имеет просто код решения задачи. Вам нужно:
-1. Самостоятельно в любом IDE создавать новый проект и в него копировать весь код;
-2. Либо в консоли прописывать команды для зборки типа:
+## Building
+Each internal directory has just a code for solving the problem. You need:
+1. Create a new project independently in any IDE and copy all the code into it;
+2. Or, in the console, write commands for assembling like:
 
-> g++ -Wall -c CommPay.cpp
+> g++ -Wall -c nameCode.cpp
 
-> g++ -no-pie -o CommPay CommPay.o
+> g++ -no-pie -o nameProgramm nameCode.o
 
-## Ссылки
-Все исполнительные файлы, методички и отчёты я заархивировал для экономии места и доступ к ним возможен по ссылке:
+## Links
+I archived all executive files, manuals and reports to save space and access to them is possible at the link:
 
 > Lab1Pascal https://drive.google.com/drive/folders/1KzvHf0Bt6aWOQ_UcppSt7rY5fOCxCRWy?usp=sharing
 
@@ -52,7 +47,7 @@
 
 > Sem2Zad10 https://drive.google.com/drive/folders/1Du9FqtgymwwfWrMrGlkKqCupdp2qnl7W?usp=sharing
 
-Причина: Освобождение пространства
+Reason: Freeing up space
 
 ## CHANGELOG
 - [CHANGELOG](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/CHANGELOG.md)
