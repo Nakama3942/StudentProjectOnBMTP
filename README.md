@@ -14,8 +14,8 @@
 Каждая внутрення директория имеет просто код решения задачи. Вам нужно:
 1. Самостоятельно в любом IDE создавать новый проект и в него копировать весь код;
 2. Либо в консоли прописывать команды для зборки типа:
->g++ -Wall -c CommPay.cpp
->g++ -no-pie -o CommPay CommPay.o
+> g++ -Wall -c CommPay.cpp
+g++ -no-pie -o CommPay CommPay.o
 
 ## Ссылки
 Все исполнительные файлы, методички и отчёты я заархивировал для экономии места и доступ к ним возможен по ссылке:
@@ -53,24 +53,16 @@
 Причина: Освобождение пространства
 
 ## CHANGELOG
-<!--
-- [CHANGELOG](https://github.com/Nakama3942/template_rep/blob/main/CHANGELOG.md)
--->
+- [CHANGELOG](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/CHANGELOG.md)
 
 ## CONTRIBUTING
-<!--
-- [CONTRIBUTING](https://github.com/Nakama3942/template_rep/blob/main/CONTRIBUTING.md)
--->
+- [CONTRIBUTING](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/CONTRIBUTING.md)
 
 ## CODE_OF_CONDUCT
-<!--
-- [CODE_OF_CONDUCT](https://github.com/Nakama3942/template_rep/blob/main/CODE_OF_CONDUCT.md)
--->
+- [CODE_OF_CONDUCT](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/CODE_OF_CONDUCT.md)
 
 ## PULL_REQUEST_TEMPLATE
-<!--
-- [PULL_REQUEST_TEMPLATE](https://github.com/Nakama3942/template_rep/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
--->
+- [PULL_REQUEST_TEMPLATE](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 ## Authors
 <table>
