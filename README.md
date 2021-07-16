@@ -22,12 +22,6 @@ Each internal directory has just a code for solving the problem. You need:
 ## Links
 I archived all executive files, manuals and reports to save space and access to them is possible at the link:
 
-> Lab1Pascal https://drive.google.com/drive/folders/1KzvHf0Bt6aWOQ_UcppSt7rY5fOCxCRWy?usp=sharing
-
-> Lab2C https://drive.google.com/drive/folders/1b4RXsdiLOH5NVC6RiU48NfIpQTama3q4?usp=sharing
-
-> Lab4Calc https://drive.google.com/drive/folders/18_tcWI7fni3eruJx7G905M7KEkPaJB7P?usp=sharing
-
 > Lab5If https://drive.google.com/drive/folders/12bYDWGy23JPIz3kec4RYyGAnUOlfR3gJ?usp=sharing
 
 > Lab6While https://drive.google.com/drive/folders/1ZAqsdXVCeG0btYKu5YDnS4GQkOydi2ZU?usp=sharing
