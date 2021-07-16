@@ -151,28 +151,37 @@ int main(void) {
 > Розробіть найпростішу програму на мові С++ з виведенням привітання на екран
 
     Я написав код програми, яка запрошує ввести своє ім’я та виводить персональне привітання:
-    ```cpp
-    #include <stdio.h>
-    #include <Windows.h>
-    #include <string>
-    #include <iostream>
-    #include <stdlib.h>
-    using namespace std;
-    int main() {
+    
+```cpp
+#include <stdio.h>
+#include <Windows.h>
+#include <string>
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main() {
     SetConsoleCP(1251); //Установка кодовой страницы в строку вводу
     SetConsoleOutputCP(1251); //Установка кодовой страницы в строку вывода
+
     char string1[] = "Мы рады видеть Вас в нашей программе, ";
     char string2[] = "Представтесь: "; //Додавання та ініціалізація строки
     cout << "Представтесь: ";
     char Name [500]; //Массив для ввода
     gets(Name); //Функція gets() зчитує всі введені символи з пробілами до тих пір, поки не - буде нажата клавіша Enter
     cout << string1 << Name << endl;
+
     system("pause");
     return 0;
-    }
-    ```
+}
+```
+
     Вона запрошує представитися, а потім виводить особисте привітання:
-    ![](https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/2%20Lab%201%20Sem%201%20Course%20-%20C%20n5.png)
+
+<p align='center'>
+    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/2%20Lab%201%20Sem%201%20Course%20-%20C%20n5.png"/>
+</p>
 
 ### Висновок
 
