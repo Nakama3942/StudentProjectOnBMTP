@@ -82,7 +82,7 @@ end.
 
 Компілюю та запускаю програму:
 <p align='center'>
-    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/0%20Lab%201%20Sem%201%20Course%20-%20Far%20Manager%20n1.png"/>
+    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/1%20Lab%201%20Sem%201%20Course%20-%20Pascal%20n1.png"/>
 </p>
 
 На наступному етапі я складаю нову програму із заміною деяких write-writeln та read-readln. Крім того я переписую деякі звертальні речення та принцип виводу інформації:
@@ -108,7 +108,7 @@ end.
 
 Отримую результат:
 <p align='center'>
-    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/0%20Lab%201%20Sem%201%20Course%20-%20Far%20Manager%20n2.png"/>
+    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/1%20Lab%201%20Sem%201%20Course%20-%20Pascal%20n2.png"/>
 </p>
 
 Далі я складаю програму, яка отримує дані користувача, а саме ПІБ користувача, рік народження, адресу проживання та спеціальність:
@@ -131,7 +131,7 @@ end.
 
 І отримую результат:
 <p align='center'>
-    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/0%20Lab%201%20Sem%201%20Course%20-%20Far%20Manager%20n3.png"/>
+    <img src="https://github.com/Nakama3942/StudentProjectOnBMTP/blob/main/Assets/1%20Lab%201%20Sem%201%20Course%20-%20Pascal%20n3.png"/>
 </p>
 
 Алгоритмом цієї програми є:
