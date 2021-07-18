@@ -22,10 +22,6 @@ Each internal directory has just a code for solving the problem. You need:
 ## Links
 I archived all executive files, manuals and reports to save space and access to them is possible at the link:
 
-> Lab13Recurs https://drive.google.com/drive/folders/1PV8jDpIgWir5BGzCe4zsY_rg_VP2Rnyd?usp=sharing
-
-> Semester https://drive.google.com/drive/folders/1RXO-AE5_Zdf1I9oHpqBNrX2LsSuVmVyB?usp=sharing
-
 > Sem2Zad6 https://drive.google.com/drive/folders/1qOD0jxUbPBF3VYMyId2fApayRWwd3zrM?usp=sharing
 
 > Sem2Zad7 https://drive.google.com/drive/folders/1HUY3IFwcZUHX46CLkLavVL-x9M9yx9yC?usp=sharing
