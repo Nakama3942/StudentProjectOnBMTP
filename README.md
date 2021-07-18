@@ -19,21 +19,6 @@ Each internal directory has just a code for solving the problem. You need:
 
 > g++ -no-pie -o nameProgramm nameCode.o
 
-## Links
-I archived all executive files, manuals and reports to save space and access to them is possible at the link:
-
-> Sem2Zad6 https://drive.google.com/drive/folders/1qOD0jxUbPBF3VYMyId2fApayRWwd3zrM?usp=sharing
-
-> Sem2Zad7 https://drive.google.com/drive/folders/1HUY3IFwcZUHX46CLkLavVL-x9M9yx9yC?usp=sharing
-
-> Sem2Zad8 https://drive.google.com/drive/folders/1POiRlPS6QJBbE7AUUKHlTo_gjM1su7-M?usp=sharing
-
-> Sem2Zad9 https://drive.google.com/drive/folders/1ZsyFaRCWOaq0M1ZF2XJI4NRiU-Qj5VA8?usp=sharing
-
-> Sem2Zad10 https://drive.google.com/drive/folders/1Du9FqtgymwwfWrMrGlkKqCupdp2qnl7W?usp=sharing
-
-Reason: Freeing up space
-
 ## Authors
 <table>
     <tr>
